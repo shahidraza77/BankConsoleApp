@@ -1,2 +1,2 @@
-# BankConsoleApp
+# Banking Operations
 Purpose of this project is to implementation of core java concepts
